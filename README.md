@@ -1,1 +1,1 @@
-A short Python script for converting PDF files to .docx
+A short interactive Python script for converting PDF files to .docx
