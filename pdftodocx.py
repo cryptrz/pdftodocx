@@ -3,7 +3,7 @@
 import sys
 from pdf2docx import Converter
 
-filename = input('What is the fulle path of the PDF file to convert? ')
+filename = input('What is the full path of the PDF file to convert? ')
 pdf_file = filename
 docx_file = filename + '_converted.docx'
 
