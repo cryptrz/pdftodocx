@@ -12,5 +12,5 @@ sudo apt update && sudo apt install -y python3-full python3-pip
 Usage:
 
 ``` 
-./pdf2docx.py file.pdf
+./pdftodocx.py file.pdf
 ``` 
